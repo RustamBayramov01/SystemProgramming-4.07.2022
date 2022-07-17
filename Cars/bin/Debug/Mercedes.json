@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "Model": "C630",
+    "Vendor": "Mercedes",
+    "Year": 2020,
+    "ImagePath": "https://s1.cdn.autoevolution.com/images/models/MERCEDES-BENZ_GLC-2022_main.jpg",
+    "Image": "https://s1.cdn.autoevolution.com/images/models/MERCEDES-BENZ_GLC-2022_main.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "E630",
+    "Vendor": "Mercedes",
+    "Year": 2019,
+    "ImagePath": "https://cdn.motor1.com/images/mgl/7xQZW/s1/2021-mercedes-amg-gt-stealth-edition.jpg",
+    "Image": "https://cdn.motor1.com/images/mgl/7xQZW/s1/2021-mercedes-amg-gt-stealth-edition.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "S630",
+    "Vendor": "Mercedes",
+    "Year": 1995,
+    "ImagePath": "https://cdn.motor1.com/images/mgl/GxwNG/s1/2022-mercedes-amg-sl.jpg",
+    "Image": "https://cdn.motor1.com/images/mgl/GxwNG/s1/2022-mercedes-amg-sl.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "G63",
+    "Vendor": "Mercedes",
+    "Year": 2012,
+    "ImagePath": "https://cdn.motor1.com/images/mgl/6y8nZ/s1/mercedes-sl-rendering-by-future-cars-now.webp",
+    "Image": "https://cdn.motor1.com/images/mgl/6y8nZ/s1/mercedes-sl-rendering-by-future-cars-now.webp"
+  },
+  {
+    "Id": 2,
+    "Model": "G63",
+    "Vendor": "Mercedes",
+    "Year": 2015,
+    "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5Eyf_C9QY8Oc-KMmIOiM6GKVqZ5DHb7P3i5pnsZL__z_3JyURKgrTSb0CjNPrtUwp0s&usqp=CAU",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5Eyf_C9QY8Oc-KMmIOiM6GKVqZ5DHb7P3i5pnsZL__z_3JyURKgrTSb0CjNPrtUwp0s&usqp=CAU"
+  },
+  {
+    "Id": 2,
+    "Model": "E630",
+    "Vendor": "Mercedes",
+    "Year": 2001,
+    "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFqPM5RAOKVP2JqRqVOrIH23L_kMMKyjfqQ&usqp=CAU",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFqPM5RAOKVP2JqRqVOrIH23L_kMMKyjfqQ&usqp=CAU"
+  },
+  {
+    "Id": 2,
+    "Model": "C630",
+    "Vendor": "Mercedes",
+    "Year": 2003,
+    "ImagePath": "https://img.mercedes-benz-kiev.com/data/news/181-mercedes-benz-vision-avtr/181-Mercedes-Benz-vision-avtr-1.jpg",
+    "Image": "https://img.mercedes-benz-kiev.com/data/news/181-mercedes-benz-vision-avtr/181-Mercedes-Benz-vision-avtr-1.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "S630",
+    "Vendor": "Mercedes",
+    "Year": 2006,
+    "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRs_8aBWlrjRCZy5q2-XjAtMDKUHxH3rl17w&usqp=CAU",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRs_8aBWlrjRCZy5q2-XjAtMDKUHxH3rl17w&usqp=CAU"
+  }
+]

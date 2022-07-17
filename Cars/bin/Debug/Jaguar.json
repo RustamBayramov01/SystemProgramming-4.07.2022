@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Model": "Flying Spur",
+    "Vendor": "Jaguar",
+    "Year": 2020,
+    "ImagePath": "https://cdn.motor1.com/images/mgl/YRYyW/s1/4x3/2019-jaguar-xj50.webp",
+    "Image": "https://cdn.motor1.com/images/mgl/YRYyW/s1/4x3/2019-jaguar-xj50.webp"
+  },
+  {
+    "Id": 2,
+    "Model": "Continental",
+    "Vendor": "Jaguar",
+    "Year": 2020,
+    "ImagePath": "https://imgd.aeplcdn.com/1280x720/cw/ec/21686/Jaguar-XJ-L-Right-Front-Three-Quarter-64990.jpg?wm=0&t=175455253&t=175455253&q=75",
+    "Image": "https://imgd.aeplcdn.com/1280x720/cw/ec/21686/Jaguar-XJ-L-Right-Front-Three-Quarter-64990.jpg?wm=0&t=175455253&t=175455253&q=75"
+  },
+  {
+    "Id": 2,
+    "Model": "Mulsanne",
+    "Vendor": "Jaguar",
+    "Year": 2020,
+    "ImagePath": "https://cdn-jaguarlandrover.com/api/v1/image/14134/w/640.jpg",
+    "Image": "https://cdn-jaguarlandrover.com/api/v1/image/14134/w/640.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "Bentayga",
+    "Vendor": "Jaguar",
+    "Year": 2020,
+    "ImagePath": "https://arabam-blog.mncdn.com/wp-content/uploads/2020/10/20-jaguar-xf-front.jpg",
+    "Image": "https://arabam-blog.mncdn.com/wp-content/uploads/2020/10/20-jaguar-xf-front.jpg"
+  }
+]

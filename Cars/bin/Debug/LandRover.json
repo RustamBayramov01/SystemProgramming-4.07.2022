@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Model": "RR Sport",
+    "Vendor": "LandRover",
+    "Year": 2020,
+    "ImagePath": "https://media.evo.co.uk/image/private/s--w5Vyo55j--/v1589463743/evo/2020/05/RRS-HST_UK-Drives_6842.jpg",
+    "Image": "https://media.evo.co.uk/image/private/s--w5Vyo55j--/v1589463743/evo/2020/05/RRS-HST_UK-Drives_6842.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "Range Rover",
+    "Vendor": "LandRover",
+    "Year": 2020,
+    "ImagePath": "https://i.pinimg.com/originals/0e/5d/f0/0e5df00c9d755676dfb09c8c6dacd6bd.jpg",
+    "Image": "https://i.pinimg.com/originals/0e/5d/f0/0e5df00c9d755676dfb09c8c6dacd6bd.jpg"
+  },
+  {
+    "Id": 2,
+    "Model": "RR Evoque",
+    "Vendor": "LandRover",
+    "Year": 2020,
+    "ImagePath": "https://cdn-jaguarlandrover.com/api/v1//image/24408",
+    "Image": "https://cdn-jaguarlandrover.com/api/v1//image/24408"
+  },
+  {
+    "Id": 2,
+    "Model": "Defender",
+    "Vendor": "LandRover",
+    "Year": 2020,
+    "ImagePath": "https://cdn.euroncap.com/media/60159/land-rover-defender.png",
+    "Image": "https://cdn.euroncap.com/media/60159/land-rover-defender.png"
+  }
+]
